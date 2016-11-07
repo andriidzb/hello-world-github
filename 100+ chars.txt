@@ -9,7 +9,5 @@ They are not vertical.
 The stripes do not go up and down. 
 They go from left to right. 
 Tracy loves her flag. 
-It is the flag of her country. 
-It is a pretty flag. 
-No other flag has 50 stars. 
 No other flag has 13 stripes.
+I made changes in this text.
